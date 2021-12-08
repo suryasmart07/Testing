@@ -1,0 +1,103 @@
+{
+  "song": [
+    {
+      "id": 1,
+      "songtitle": "SoundHelix-Mix1",
+      "movie": "SoundHelix",
+      "singers": "Schurger T",
+      "length": "6.12",
+      "genre": "Rap",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-1.mp3",
+      "count": 26
+    },
+    {
+      "id": 2,
+      "songtitle": "SoundHelix pop Music",
+      "movie": "SoundHelix",
+      "singers": "Schurger T",
+      "length": "7.05",
+      "genre": "Pop",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-2.mp3",
+      "count": 14
+    },
+    {
+      "id": 3,
+      "songtitle": "classic Beat",
+      "movie": "SoundHelix",
+      "singers": "Schurger T",
+      "length": "5.44",
+      "genre": "Pop",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-3.mp3",
+      "count": 29
+    },
+    {
+      "id": 4,
+      "songtitle": "Helix League",
+      "movie": "SoundHelix",
+      "singers": "Schurger T",
+      "length": "5.02",
+      "genre": "Pop",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-4.mp3",
+      "count": 19
+    },
+    {
+      "id": 5,
+      "songtitle": "Strange things league Music",
+      "movie": "SoundHelix",
+      "singers": "Schurger T",
+      "length": "5.02",
+      "genre": "Pop",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-5.mp3",
+      "count": 26
+    },
+    {
+      "id": 6,
+      "songtitle": "Danger using harmony",
+      "movie": "SoundHelix",
+      "singers": "Schurger T",
+      "length": "4.39",
+      "genre": "Pop",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-6.mp3",
+      "count": 32
+    },
+    {
+      "id": 7,
+      "songtitle": "Guitar classic rock",
+      "movie": "Helix",
+      "singers": "Schurger T",
+      "length": "7.00",
+      "genre": "Classic",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-7.mp3",
+      "count": 31
+    },
+    {
+      "id": 8,
+      "songtitle": "NCS Release",
+      "movie": "Helix",
+      "singers": "Schurger T",
+      "length": "5.25",
+      "genre": "Classic",
+      "url": "https://www.soundhelix.com/examples/mp3/SoundHelix-Song-8.mp3",
+      "count": 23
+    }
+  ],
+  "User": [
+    {
+      "id": 1,
+      "email": "test@test.com",
+      "password": "123456",
+      "firstname": "surya",
+      "lastname": "wipro",
+      "phone": "9999999999"
+    }
+  ],
+  "playlist": [
+    {
+      "id": 1,
+      "songs": [
+        "SoundHelix1",
+        "SoundHelix2"
+      ]
+    }
+  ]
+}
